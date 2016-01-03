@@ -1,0 +1,13 @@
+
+Download the "win_fetch_cacerts.rb" file in your desktop.
+
+In command prompt, execute the command :
+
+>ruby "%USERPROFILE%\Desktop\win_fetch_cacerts.rb"
+
+Now make ruby aware of your certificate authority bundle by setting SSL_CERT_FILE. To set this in your current command prompt session, type:
+
+>set SSL_CERT_FILE=C:\RailsInstaller\cacert.pem
+
+Add this in control panel.
+
