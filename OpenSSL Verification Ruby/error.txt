@@ -1,0 +1,1 @@
+OpenSSL::SSL::SSLError: SSL_connect returned=1 errno=0 state=SSLv3 read server c ertificate B: certificate verify failed
