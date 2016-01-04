@@ -1,0 +1,12 @@
+
+Follow the following steps to remove the error :
+
+1. Run command prompt as administrator
+2. Type: regedt32
+3. Press enter
+4. In the new window, navigate to:
+          HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network
+  In the above folder, delete the binary file named Config. 
+5. Close Registry Editor
+6. Reboot the machine.
+This solves the specific problem.
