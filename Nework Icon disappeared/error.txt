@@ -1,0 +1,6 @@
+
+The network icon disappears and the GUI shows that the network adapters are not detected.<br>
+In short, we are unable to surf through the internet through others see our presence.
+Operating system : Windows 8.1
+
+Problem have been solved.
