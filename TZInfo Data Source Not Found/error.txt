@@ -1,0 +1,8 @@
+c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/tzinfo-1.1.0/lib/tzinfo/data_source.rb:199:
+in `rescue in create_default_data_source': 
+No timezone data source could be found. To resolve this, either install 
+TZInfo::Data (e.g. by running `gem install tzinfo-data`) or specify a zoneinfo 
+directory using `TZInfo::DataSource.set(:zoneinfo, zoneinfo_path)`.
+(TZInfo::DataSourceNotFound) 
+from c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/tzinfo-1.1.0/lib/tzinfo/data_source.rb:196:
+in `create_default_data_source'
