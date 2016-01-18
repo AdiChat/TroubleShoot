@@ -1,0 +1,52 @@
+Running console on recipe-store... up, run.1797
+/app/vendor/bundle/ruby/2.1.0/gems/fog-1.23.0/lib/fog/joyent/compute.rb:3:in `re
+quire': cannot load such file -- net/ssh (LoadError)
+        from /app/vendor/bundle/ruby/2.1.0/gems/fog-1.23.0/lib/fog/joyent/comput
+e.rb:3:in `<top (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/fog-1.23.0/lib/fog/joyent.rb:1:i
+n `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/fog-1.23.0/lib/fog/joyent.rb:1:i
+n `<top (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/fog-1.23.0/lib/fog.rb:40:in `req
+uire'
+        from /app/vendor/bundle/ruby/2.1.0/gems/fog-1.23.0/lib/fog.rb:40:in `<to
+p (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/carrierwave-0.10.0/lib/carrierwa
+ve/storage/fog.rb:3:in `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/carrierwave-0.10.0/lib/carrierwa
+ve/storage/fog.rb:3:in `<top (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/carrierwave-0.10.0/lib/carrierwa
+ve/storage.rb:9:in `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/carrierwave-0.10.0/lib/carrierwa
+ve/storage.rb:9:in `<top (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/carrierwave-0.10.0/lib/carrierwa
+ve.rb:78:in `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/carrierwave-0.10.0/lib/carrierwa
+ve.rb:78:in `<top (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler/runtim
+e.rb:76:in `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler/runtim
+e.rb:76:in `block (2 levels) in require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler/runtim
+e.rb:72:in `each'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler/runtim
+e.rb:72:in `block in require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler/runtim
+e.rb:61:in `each'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler/runtim
+e.rb:61:in `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/bundler-1.9.7/lib/bundler.rb:134
+:in `require'
+        from /app/config/application.rb:7:in `<top (required)>'
+        from /app/vendor/bundle/ruby/2.1.0/gems/railties-4.1.6/lib/rails/command
+s/commands_tasks.rb:146:in `require'
+        from /app/vendor/bundle/ruby/2.1.0/gems/railties-4.1.6/lib/rails/command
+s/commands_tasks.rb:146:in `require_application_and_environment!'
+        from /app/vendor/bundle/ruby/2.1.0/gems/railties-4.1.6/lib/rails/command
+s/commands_tasks.rb:68:in `console'
+        from /app/vendor/bundle/ruby/2.1.0/gems/railties-4.1.6/lib/rails/command
+s/commands_tasks.rb:40:in `run_command!'
+        from /app/vendor/bundle/ruby/2.1.0/gems/railties-4.1.6/lib/rails/command
+s.rb:17:in `<top (required)>'
+        from bin/rails:8:in `require'
+        from bin/rails:8:in `<main>'
