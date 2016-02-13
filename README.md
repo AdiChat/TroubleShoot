@@ -5,5 +5,5 @@ Troubleshooting through problems
 2. OpenSSL Certificate verification problem while using RubyGems in Windows 8.1 platform [Solved]<br>
 3. TZinfo Data Source not found error [Solved]<br>
 4. Heroku is not a repository error [Solved]<br>
-5. Not a gzip file - tar extraction error [Solved]
+5. Not a gzip file - tar extraction error [Solved]<br>
 Problem list will be updated soon.
