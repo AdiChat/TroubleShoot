@@ -1,6 +1,5 @@
-Error : Ubuntu 15.10 { laravel newlaravel } 
+Error 1: Ubuntu 15.10 { laravel newlaravel } 
 Cannot create cache directory /home/aditya/.composer/cache/repo/https---packagist.org/, or directory is not writable. Proceeding without cache
 Cannot create cache directory /home/aditya/.composer/cache/files/, or directory is not writable. Proceeding without cache
 Cannot create cache directory /home/aditya/.composer/cache/repo/https---packagist.org/, or directory is not writable. Proceeding without cache
 Loading composer repositories with package information
-----------------------------------------------------
