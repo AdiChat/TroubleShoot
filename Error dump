@@ -3,3 +3,9 @@ Cannot create cache directory /home/aditya/.composer/cache/repo/https---packagis
 Cannot create cache directory /home/aditya/.composer/cache/files/, or directory is not writable. Proceeding without cache
 Cannot create cache directory /home/aditya/.composer/cache/repo/https---packagist.org/, or directory is not writable. Proceeding without cache
 Loading composer repositories with package information
+
+
+Error 2:
+[PDOException]                                                               
+  SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using pas  
+  sword: NO) 
