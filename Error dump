@@ -9,3 +9,22 @@ Error 2:
 [PDOException]                                                               
   SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using pas  
   sword: NO) 
+  
+  Error 3:
+  C:\xampp\htdocs\larashop>php artisan migrate
+
+
+  [Illuminate\Database\QueryException]
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'drinks' alr
+  eady exists (SQL: create table `drinks` (`id` int unsigned not null auto_in
+  crement primary key, `name` varchar(75) not null, `comments` text null, `ra
+  ting` int not null, `brew_date` date not null, `created_at` timestamp null,
+   `updated_at` timestamp null) default character set utf8 collate utf8_unico
+  de_ci)
+
+
+
+  [PDOException]
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'drinks' alr
+  eady exists
+
