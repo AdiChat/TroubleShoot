@@ -28,3 +28,12 @@ Error 2:
   SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'drinks' alr
   eady exists
 
+Error 4:
+
+aditya@aditya-Notebook:~/osem$ bundle install --standalone
+Fetching source index from https://rails-assets.org/
+Retrying fetcher due to error (2/4): Bundler::HTTPError Could not fetch specs from https://rails-assets.org/
+Retrying fetcher due to error (3/4): Bundler::HTTPError Could not fetch specs from https://rails-assets.org/
+Retrying fetcher due to error (4/4): Bundler::HTTPError Could not fetch specs from https://rails-assets.org/
+Could not fetch specs from https://rails-assets.org/
+
