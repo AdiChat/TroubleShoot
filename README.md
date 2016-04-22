@@ -7,4 +7,5 @@ Troubleshooting through problems
 3. TZinfo Data Source not found error [Solved]<br>
 4. Heroku is not a repository error [Solved]<br>
 5. Not a gzip file - tar extraction error [Solved]<br>
+6. Access Denied root@localhost error [Solved]<br>
 Problem list will be updated soon.<br>
