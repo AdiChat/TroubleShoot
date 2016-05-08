@@ -1,0 +1,10 @@
+Replace :
+
+from django.contrib.sites.models import RequestSite
+
+by
+
+from django.contrib.sites.requests import RequestSite
+
+in [YourPath]/admin.py
+and also in views.py
