@@ -2,3 +2,8 @@ Add the following in .bash_profile :
 
 source "/usr/bin/virtualenvwrapper.sh"
 export WORKON_HOME="/opt/virtual_env/"
+
+virtualenvwrapper.sh is in /usr/local/bin instead of /usr/bin and this should be made explict in the user profile in .profile and .bashrc.
+
+
+
