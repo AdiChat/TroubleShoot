@@ -9,4 +9,5 @@ Troubleshooting through problems
 5. Not a gzip file - tar extraction error [Solved]<br>
 6. Access Denied root@localhost error [Solved]<br>
 7. ImportError: cannot import name RequestSite when inlude 'registration' in installed apps [Solved]<br>
+8. mkvirtualenv-command-not-found [Solved]<br>
 Problem list will be updated soon.<br>
