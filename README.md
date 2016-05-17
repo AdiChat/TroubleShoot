@@ -10,4 +10,4 @@ Troubleshooting through problems
 6. Access Denied root@localhost error [Solved]<br>
 7. ImportError: cannot import name RequestSite when inlude 'registration' in installed apps [Solved]<br>
 8. mkvirtualenv-command-not-found [Solved]<br>
-Problem list will be updated soon.<br>
+Problem list is frequently updated.<br>
