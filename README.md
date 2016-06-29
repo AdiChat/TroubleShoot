@@ -10,5 +10,6 @@ Troubleshooting through problems
 6. Access Denied root@localhost error [Solved]<br>
 7. ImportError: cannot import name RequestSite when inlude 'registration' in installed apps [Solved]<br>
 8. mkvirtualenv-command-not-found [Solved]<br>
+9. The-entity-nbsp-was-referenced-but-not-declared-RSS-feed [Solved]<br>
 Problem list is frequently updated.<br>
 
