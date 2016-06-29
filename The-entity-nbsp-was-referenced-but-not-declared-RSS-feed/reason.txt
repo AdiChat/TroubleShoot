@@ -1,0 +1,4 @@
+The issue arised while registering RSS feed in feedburner.
+
+The issue arose as all numeric entities are allowed in XML but only the named ones are known from HTML. XHTML removes this issue as it follows XML structure.
+The solution was to escape such entities with the respective numeric entities.
