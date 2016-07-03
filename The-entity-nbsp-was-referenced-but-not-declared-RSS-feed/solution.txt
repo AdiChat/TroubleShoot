@@ -1,5 +1,4 @@
 <!DOCTYPE adichat [
-
 <!ENTITY apos '&#39;'>
 <!ENTITY quot '&#34;'>
 <!ENTITY amp '&#38;'>
@@ -253,5 +252,4 @@
 <!ENTITY clubs '&#9827;'>
 <!ENTITY hearts '&#9829;'>
 <!ENTITY diams '&#9830;'>
-
 ]>
