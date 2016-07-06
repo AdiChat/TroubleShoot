@@ -1,0 +1,4 @@
+If the contents of the folder D:/folder1 is to be deleted and either the path name or filename or both are exceeding 255 characters, 
+create a temporary folder E:/folder2 and run the following command at the command prompt:
+
+robocopy /MIR d:\folder1 E:\folder2
