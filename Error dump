@@ -22,6 +22,23 @@ Error 2:
    `updated_at` timestamp null) default character set utf8 collate utf8_unico
   de_ci)
 
+Error 4:
+
+DL is deprecated, please use Fiddle
+rake aborted!
+PG::ConnectionBad: could not connect to server: Connection refused (0x0000274D/1
+0061)
+        Is the server running on host "localhost" (::1) and accepting
+        TCP/IP connections on port 5432?
+could not connect to server: Connection refused (0x0000274D/10061)
+        Is the server running on host "localhost" (127.0.0.1) and accepting
+        TCP/IP connections on port 5432?
+E:/saas-project-app/test/test_helper.rb:3:in `<top (required)>'
+E:/saas-project-app/test/controllers/artifacts_controller_test.rb:1:in `<top (re
+quired)>'
+Tasks: TOP => test:run
+(See full trace by running task with --trace)
+
 
 
   [PDOException]
