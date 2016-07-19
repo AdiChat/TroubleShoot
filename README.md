@@ -12,5 +12,4 @@ Troubleshooting through problems
 8. mkvirtualenv-command-not-found [Solved]<br>
 9. The-entity-nbsp-was-referenced-but-not-declared-RSS-feed [Solved]<br>
 10. delete-files-with-path-or-file-name-exceeding-255-characters [Solved] <br>
-Problem list is frequently updated.<br>
 
