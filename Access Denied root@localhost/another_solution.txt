@@ -1,0 +1,14 @@
+
+create .my.cnf in /root/
+
+and put in it
+
+[mysqladmin]
+ user = root
+ password = mysqlrootpassword
+[mysql]
+ user = root
+ password = mysqlrootpassword
+[mysqldump]
+ user = root
+ password = mysqlrootpassword
