@@ -1,0 +1,2 @@
+use: sudo npm install
+instead of: npm install
