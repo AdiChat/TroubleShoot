@@ -1,0 +1,1 @@
+Error: EACCES: permission denied, access '/home/home/ee/node_modules'npm ERR!     at Error (native)npm ERR!  { [Error: EACCES: permission denied, access '/home/home/ee/node_modules']
