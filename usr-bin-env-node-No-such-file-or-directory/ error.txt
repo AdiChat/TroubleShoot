@@ -1,0 +1,2 @@
+> bower install
+usr/bin/env: ‘node’: No such file or directory
