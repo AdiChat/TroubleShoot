@@ -1,0 +1,3 @@
+> sudo ln -s /usr/bin/nodejs /usr/bin/node
+
+Doing a symlink solves the issue:
