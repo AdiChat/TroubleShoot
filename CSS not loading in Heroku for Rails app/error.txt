@@ -1,0 +1,2 @@
+
+CSS does not load in a rails app hosted on Heroku. Thus, the face of the application is malformed.
