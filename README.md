@@ -13,6 +13,6 @@ Troubleshooting through problems
 9. The-entity-nbsp-was-referenced-but-not-declared-RSS-feed [Solved]<br>
 10. delete-files-with-path-or-file-name-exceeding-255-characters [Solved] <br>
 11. Error-EACCES-permission-denied [Solved] <br>
-12. usr-bin-env-node-No-such-file-or-directory [Solved] <br>
+12. usr-bin-env-node-No-such-file-or-directory [Solved]: [see](https://github.com/AdiChat/TroubleShoot/tree/master/usr-bin-env-node-No-such-file-or-directory) <br>
 13. PG::ConnectionBad: could not connect to server [Solved][To be updated]<br>
 14. CSS not loading in Rails app deployed to Heroku [Solved]: [see](https://github.com/AdiChat/TroubleShoot/tree/master/CSS%20not%20loading%20in%20Heroku%20for%20Rails%20app)<br>
