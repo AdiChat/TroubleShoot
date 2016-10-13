@@ -2,8 +2,8 @@
 Troubleshooting through problems
 
 :watch: :computer: :guitar: :key: :girl: :boy: :man: :woman: :rose: :book: :lock: :droplet: <br><br>
-1. Network icon disappeared in Windows 8.1 [Solved] <br>
-2. OpenSSL Certificate verification problem while using RubyGems in Windows 8.1 platform [Solved]<br>
+1. Network icon disappeared in Windows 8.1 [Solved]: [see](https://github.com/AdiChat/TroubleShoot/tree/master/Nework%20Icon%20disappeared) <br>
+2. OpenSSL Certificate verification problem while using RubyGems in Windows 8.1 platform [Solved]: [see](https://github.com/AdiChat/TroubleShoot/tree/master/OpenSSL%20Verification%20Ruby)<br>
 3. TZinfo Data Source not found error [Solved]<br>
 4. Heroku is not a repository error [Solved]<br>
 5. Not a gzip file - tar extraction error [Solved]<br>
